@@ -163,12 +163,6 @@ docker-compose logs samba
 docker-compose exec samba smbstatus
 ```
 
-## Contributing
-
-Want to contribute? Awesome! The most basic way to show your support is to star the project, or to raise issues. You can also support this project by [**becoming a sponsor on GitHub**](https://github.com/sponsors/cristian1604).
-
-Thanks again for your support, it is much appreciated! :pray:
-
 ## License
 
 MIT. See `LICENSE` for more details.
